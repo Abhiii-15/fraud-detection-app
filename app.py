@@ -35,7 +35,7 @@ st.markdown("""
 ⚠️ **Note**: This model only works with data in the same format as the public `creditcard.csv` dataset  
 (V1 to V28 + Amount) — all PCA-anonymized features.
 
-📂 [Click here to download a sample input CSV](https://chat.openai.com/mnt/data/sample_input.csv) to test the app.
+📂 [Click here to download a sample input CSV](https://drive.google.com/uc?export=download&id=1Eu0OSeIRcMIX3VSdIYxAe8QQF44dyNro) to test the app.
 
 """)
 
