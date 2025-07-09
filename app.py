@@ -35,7 +35,7 @@ st.markdown("""
 ⚠️ **Note**: This model only works with data in the same format as the public `creditcard.csv` dataset  
 (V1 to V28 + Amount) — all PCA-anonymized features.
 
-📂 [Click here to download a sample input CSV](https://drive.google.com/uc?export=download&id=19LX8BcbmDEdqgiuPPERi7bmb3goKSdeB
+📂 [Click here to download a sample input CSV](https://drive.google.com/uc?export=download&id=1V8IiTA4RCODPjrUvcYTedppyB1bQmKjQ
 ) to test the app.
 
 """)
